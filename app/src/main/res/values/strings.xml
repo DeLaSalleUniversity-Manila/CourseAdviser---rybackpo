@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CourseAdviserApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_term">Please Choose the Term:</string>
+    <string name="course_taken">Display Course Taken</string>
+    <string name="courses"></string>
+    <string-array name="Terms">
+        <item>1st Year, 1st Term</item>
+        <item>1st Year, 2nd Term</item>
+        <item>1st Year, 3rd Term</item>
+        <item>2nd Year, 1st Term</item>
+        <item>2nd Year, 2nd Term</item>
+        <item>2nd Year, 3rd Term</item>
+        <item>3rd Year, 1st Term</item>
+        <item>3rd Year, 2nd Term</item>
+        <item>3rd Year, 3rd Term</item>
+        <item>Special Term</item>
+        <item>4th Year, 1st Term</item>
+    </string-array>
+    <string name="title_activity_course_list">CourseList</string>
+</resources>
